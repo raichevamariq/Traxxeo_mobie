@@ -25,5 +25,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="ionic-plugin-keyboard" spec="~2.2.1" />
-    <gap:plugin name="com.plugins.shortcut" />
+    
 </widget>
